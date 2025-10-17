@@ -55,7 +55,6 @@ O formato do roteiro deve ter:
 🎧 Matriz do Saber – Episódio 1: “Por onde começar na jornada dos dados?”
 🎬 [INTRODUÇÃO]
 
-(Som de introdução tecnológica leve, com batidas digitais)
 
 🎙️ Thiago:
 Você já parou pra pensar que cada clique, cada curtida e até aquele “sim” que você deu pro aplicativo, gera um dado sobre você?
