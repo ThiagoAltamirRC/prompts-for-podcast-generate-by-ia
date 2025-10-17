@@ -6,17 +6,18 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Preview do Podcast
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast-ia-editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
+Projeto realizado no Bootcamp Universia Santander - Fundamentos de IA Generativa
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
