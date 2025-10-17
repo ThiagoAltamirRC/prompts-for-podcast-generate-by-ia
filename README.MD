@@ -31,8 +31,8 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Audio gerado pelo elevenLabs
+- Midjourney para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 🛠️ Instruções de execução
