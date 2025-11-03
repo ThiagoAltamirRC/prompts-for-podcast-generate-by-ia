@@ -5,14 +5,6 @@
 />
 </p>
 
-<p align="center">
-    Preview do Podcast
-</p>
-
-<div align="center">
-    <audio src="output/Podcast-IA-Editado.mp3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
 
