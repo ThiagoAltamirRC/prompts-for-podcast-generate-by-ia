@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/Podcast-IA-Editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/Podcast-IA-Editado.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
