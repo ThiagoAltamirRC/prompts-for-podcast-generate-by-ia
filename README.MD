@@ -8,7 +8,7 @@
 <p align="center">
     <a 
         href="https://github.com/ThiagoAltamirRC/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast-IA-Editado.mp3">
-        > Ouvir o PodCast
+        ▶️ Ouvir o PodCast
     </a>
 </p>
 
